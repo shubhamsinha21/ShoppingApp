@@ -1,5 +1,4 @@
 import React from 'react';
-import {View, Text} from 'react-native';
 
 //Navigation
 import {NavigationContainer} from '@react-navigation/native';
@@ -39,3 +38,5 @@ const App = () => {
     </NavigationContainer>
   );
 };
+
+export default App;
